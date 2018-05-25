@@ -206,6 +206,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib/libadm.so:system/vendor/lib/libadm.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
@@ -266,6 +268,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib/libldacBT_enc.so:system/vendor/lib/libldacBT_enc.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/lenovo/A6020/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
@@ -436,6 +439,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libadreno_utils.so:system/vendor/lib64/libadreno_utils.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libadsp_default_listener.so:system/vendor/lib64/libadsp_default_listener.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libadsprpc.so:system/vendor/lib64/libadsprpc.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libaudcal.so:system/vendor/lib64/libaudcal.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libaudioalsa.so:system/vendor/lib64/libaudioalsa.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libbccQTI.so:system/vendor/lib64/libbccQTI.so \
@@ -469,6 +474,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libimsmedia_jni.so:system/vendor/lib64/libimsmedia_jni.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libizat_core.so:system/vendor/lib64/libizat_core.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/liblbs_core.so:system/vendor/lib64/liblbs_core.so \
+    vendor/lenovo/A6020/proprietary/vendor/lib64/libldacBT_enc.so:system/vendor/lib/libldacBT_enc.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libllvm-glnext.so:system/vendor/lib64/libllvm-glnext.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/libllvm-qcom.so:system/vendor/lib64/libllvm-qcom.so \
     vendor/lenovo/A6020/proprietary/vendor/lib64/liblqe.so:system/vendor/lib64/liblqe.so \
